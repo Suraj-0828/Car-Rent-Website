@@ -31,15 +31,15 @@
                     <ul>
                         <li class="d-flex align-items-center">
                             <div class="offcanvas__contact-icon">
-                                <i class="fal fa-map-marker-alt"></i>
+                                <i class="fas fa-map-marker-alt"></i>
                             </div>
                             <div class="offcanvas__contact-text">
-                                <a target="_blank" href="#">7 Yawini Street, Lautoka.</a>
+                                <a target="_blank" href="javascript:void(0)">7 Yawini Street, Lautoka.</a>
                             </div>
                         </li>
                         <li class="d-flex align-items-center">
                             <div class="offcanvas__contact-icon mr-15">
-                                <i class="fal fa-envelope"></i>
+                                <i class="fas fa-envelope"></i>
                             </div>
                             <div class="offcanvas__contact-text">
                                 <a href="mailto:naidurentalsfj@gmail.com"><span class="mailto:naidurentalsfj@gmail.com"> naidurentalsfj@gmail.com</span></a>
@@ -47,15 +47,15 @@
                         </li>
                         <li class="d-flex align-items-center">
                             <div class="offcanvas__contact-icon mr-15">
-                                <i class="fal fa-clock"></i>
+                                <i class="fas fa-calendar"></i>
                             </div>
                             <div class="offcanvas__contact-text">
-                                <a target="_blank" href="#">Mod-friday, 09am -05pm</a>
+                                <a target="_blank" href="javascript:void(0)">Mod-friday, 09am -05pm</a>
                             </div>
                         </li>
                         <li class="d-flex align-items-center">
                             <div class="offcanvas__contact-icon mr-15">
-                                <i class="far fa-phone"></i>
+                                <i class="fas fa-phone"></i>
                             </div>
                             <div class="offcanvas__contact-text">
                                 <a target="_blank" href="tel:+679-870-8366">+679-870-8366</a>
@@ -68,7 +68,7 @@
                         </a>
                     </div>
                     <div class="social-icon d-flex align-items-center">
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.facebook.com/profile.php?id=61568954675811&mibextid=ZbWKwL"><i class="fab fa-facebook-f"></i></a>
 
                     </div>
                 </div>
